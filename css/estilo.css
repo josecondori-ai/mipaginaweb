@@ -3,3 +3,12 @@ h1{
     color: blueviolet;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+main{
+    height: 80vh;
+    background-color: chartreuse;
+    color: azure;
+}
+
+img{
+    width: 450px;
+}
